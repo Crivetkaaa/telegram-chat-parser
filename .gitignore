@@ -1,0 +1,7 @@
+users/
+__pycache__/
+my/
+my1/
+my.session
+my1.session
+proxies.txt
